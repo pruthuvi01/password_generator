@@ -40,3 +40,7 @@ To build the Password Generator, make sure you have a C compiler (e.g., GCC) ins
 
 gcc -o pwd password_generator.c
 
+## Author
+
+- [Pruthuvi Samod](https://github.com/pruthuvi01)
+
